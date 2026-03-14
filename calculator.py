@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🧮 我的小计算器")
+st.title("🧮 代代的小计算器")
 
 num1 = st.number_input("请输入第一个数字", value=0.0)
 num2 = st.number_input("请输入第二个数字", value=0.0)
